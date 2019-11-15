@@ -1,0 +1,64 @@
+.panel {
+    box-shadow:0px 7px 53px -28px rgba(0,0,0,0.3);
+}
+.panel-heading {
+    text-align: left;
+    font-weight: bold;
+}
+.panel-head-edit {
+    text-align: left;
+    font-weight: bold;
+}
+.panel-body {
+    text-align: left;
+    font-size: 20px;
+}
+.goto {
+    text-align: left;
+}
+.question-area-edit {
+    border:0px;
+    min-width:100%;
+    max-width:100%;
+    min-height: 70px;
+    max-height: 70px;
+    border-bottom: 1px solid rgba(134, 134, 134, 0.603);
+    border-radius: 0px;
+    padding:10px;
+}
+.topic-font-edit {
+    padding: 10px;
+    font-size: 15px;
+    color:white;
+    background-color: rgb(156, 156, 156);
+    height: 100%;
+    border-radius: 10%;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.tags-label {
+    display: inline;
+    overflow: hidden;
+}
+.tags-list {
+    display: inline;
+    overflow-y:scroll;
+    margin: 0;
+    
+}
+.tag-edit {
+    font-size: 18px;
+    padding:1px 30px 3px 15px;
+    background-color: rgba(114, 114, 114, 0.3);
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.glyphicon-remove {
+    font-size:12px;
+}
+.tag-body-edit{
+    padding-bottom:5px;
+}
+.tag-body-edit2{
+    padding-top:0px;
+}

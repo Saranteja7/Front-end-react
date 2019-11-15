@@ -1,0 +1,25 @@
+.answer-heading {
+    margin:0;
+}
+hr {
+    margin:0;
+}
+.sub-container {
+    box-shadow: 4px 3px 21px -8px rgba(0,0,0,0.75);
+    width:96%;
+    margin:2%;
+    border:1px solid rgb(190, 190, 190);
+    border-radius: 10px;
+    padding:40px;
+}
+.answers {
+    border-bottom:1px solid rgb(190, 190, 190);
+    margin:20px;
+    padding:10px;
+    font-size:15px;
+    overflow-wrap: break-word;
+}
+
+.answeredBy {
+    font-size:10px;
+}

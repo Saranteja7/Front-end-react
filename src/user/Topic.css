@@ -1,0 +1,19 @@
+.jumbotron-fluid {
+    border-radius: 20%;
+    background-color: rgba(225,225,225,0.7);
+    box-shadow:0px 7px 53px -28px rgba(0,0,0,1);
+}
+.align-heading {
+    text-align: left;
+}
+.list-edit {
+    padding:20px;
+    box-shadow:0px 7px 53px -28px rgba(0,0,0,1);
+    font-size: 15px;
+    font-weight: bold;
+    background-color: rgba(225,225,225,0.3);
+    margin:6px;
+}
+.row {
+    text-align: center !important;
+}

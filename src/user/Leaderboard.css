@@ -1,0 +1,28 @@
+td,th {
+    text-align: left !important;
+    padding:15px 0px !important;
+    padding-left:20px !important;
+}
+th {
+    border-top:1px;
+}
+.table {
+    width:80% !important;
+    margin: 10%;
+    margin-top:2%;
+    border-radius:10px 10px 10px 10px;
+    box-shadow: 10px 10px 37px 0px rgba(0,0,0,0.75);
+    overflow: hidden;
+}
+.container {
+    min-height:700px;
+}
+.heading-leaderboard {
+    margin:10%;
+    margin-bottom: 4%;
+    margin-top:0%;
+    border: 1px solid rgb(187, 187, 187); 
+    border-radius: 20px;
+    padding:10px;
+    box-shadow: 10px 10px 15px -11px rgba(0,0,0,0.75);
+}

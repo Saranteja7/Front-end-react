@@ -1,0 +1,12 @@
+img {
+    width: 40%;
+    margin:10px;
+}
+.col-edit {
+    border: 1px solid rgb(240,240,240);
+    padding:10px;
+    border-radius: 10px;
+    margin:30px;
+    box-shadow:0px 7px 53px -28px rgba(0,0,0,0.3);
+    background-color: rgba(5, 5, 5, 0);
+}

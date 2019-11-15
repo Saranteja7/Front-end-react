@@ -1,0 +1,32 @@
+.container-edit {
+    margin:0% !important;
+    margin-right:2% !important;
+    margin-left: 6% !important;
+}
+.left-profile {
+    padding:10px;
+    margin-right:5%;
+    border:1px solid rgb(172, 172, 172);
+    border-radius: 20px;
+    box-shadow:  10px 10px 15px -11px rgba(0,0,0,0.75);
+}
+.table-edit {
+    width:98%;
+    margin-left:2%;
+    text-align: center !important;
+}
+.custom-table-row-edit {
+    padding:5px !important;
+    text-align: center !important;
+}
+.left-profile-sub {
+    text-align: left !important;
+    padding: 19px !important;
+}
+.right-profile {
+    padding:10px;
+    text-align: left;
+}
+.display-graph {
+    width:80%;
+}

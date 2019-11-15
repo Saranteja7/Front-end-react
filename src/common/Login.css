@@ -1,0 +1,17 @@
+.login-button-edit {
+    width:30%;
+}
+.login-form-input {
+    width:30% !important;
+    margin-left:35%;
+}
+.error-data {
+    color:red;
+    margin-left:36%;
+}
+.group-edit {
+    text-align: left !important;
+}
+.login-container {
+    height: 100px;
+}
